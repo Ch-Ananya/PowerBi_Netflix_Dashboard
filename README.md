@@ -11,21 +11,21 @@ Content Overview
 - Total Runtime: 7.51K hours
 - Average IMDb Rating: 5.94
 
-# Genre Analysis
+Genre Analysis
 - Top Genres: Comedy in Movies and while drama dominate in Shows.
 
-# Global Contribution
+Global Contribution
 - Netflix content is widely distributed with strong contributions from North America, Europe, and Asia.
 - Regional variations highlight diverse audience preferences.
 
-# Content by Type
+Content by Type
 - Movies account for 65% of total content.
 - Shows make up 35%, showing Netflix’s growing investment in series.
 
-# Release Year Trends
+Release Year Trends
 - Content production surged significantly after 2010, peaking around 2020.
 - Recent years show a slight decline in new releases.
 
-# Runtime Insights
+Runtime Insights
 - Movies dominate runtime (82%), while Shows contribute 18%.
 - Indicates longer average duration per movie compared to episodic shows.
